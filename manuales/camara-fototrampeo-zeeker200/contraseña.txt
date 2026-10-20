@@ -1,0 +1,2 @@
+NOTA: Esta contraseña debe ingresarse cada vez que se enciende la cámara en el modo TEST antes de poder usar la cámara.
+Si olvida la contraseña por accidente, “1111 • es la contraseña de uso exclusivo.
